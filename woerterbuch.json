@@ -1,0 +1,890 @@
+[
+  {
+    "begriff": "Variable",
+    "beschreibung": "Ein Speicherplatz für einen Wert, der sich ändern kann."
+  },
+  {
+    "begriff": "Funktion",
+    "beschreibung": "Ein benannter Codeblock, der ausgeführt werden kann, um eine Aufgabe zu erfüllen."
+  },
+  {
+    "begriff": "Klasse",
+    "beschreibung": "Eine Vorlage für Objekte, die Eigenschaften und Methoden definiert."
+  },
+  {
+    "begriff": "Objekt",
+    "beschreibung": "Eine Instanz einer Klasse mit eigenen Attributen und Methoden."
+  },
+  {
+    "begriff": "Liste",
+    "beschreibung": "Eine geordnete Sammlung von Elementen, die veränderbar ist."
+  },
+  {
+    "begriff": "Tuple",
+    "beschreibung": "Eine geordnete, unveränderbare Sammlung von Elementen."
+  },
+  {
+    "begriff": "Dictionary",
+    "beschreibung": "Eine Sammlung von Schlüssel-Wert-Paaren."
+  },
+  {
+    "begriff": "Set",
+    "beschreibung": "Eine ungeordnete Sammlung von einzigartigen Elementen."
+  },
+  {
+    "begriff": "Schleife",
+    "beschreibung": "Ein Konstrukt, das wiederholt einen Codeblock ausführt."
+  },
+  {
+    "begriff": "for-Schleife",
+    "beschreibung": "Eine Schleife, die über eine Sequenz iteriert."
+  },
+  {
+    "begriff": "while-Schleife",
+    "beschreibung": "Eine Schleife, die ausgeführt wird, solange eine Bedingung wahr ist."
+  },
+  {
+    "begriff": "if-Anweisung",
+    "beschreibung": "Eine Verzweigung, die Code nur bei erfüllter Bedingung ausführt."
+  },
+  {
+    "begriff": "elif",
+    "beschreibung": "Eine zusätzliche Bedingung in einer if-Anweisung."
+  },
+  {
+    "begriff": "else",
+    "beschreibung": "Ein Codeblock, der ausgeführt wird, wenn keine Bedingung zutrifft."
+  },
+  {
+    "begriff": "Import",
+    "beschreibung": "Das Einbinden von Modulen oder Funktionen in ein Skript."
+  },
+  {
+    "begriff": "Modul",
+    "beschreibung": "Eine Datei mit Python-Code, die Funktionen, Klassen oder Variablen enthält."
+  },
+  {
+    "begriff": "Paket",
+    "beschreibung": "Eine Sammlung von Modulen in einem Verzeichnis mit __init__.py."
+  },
+  {
+    "begriff": "Exception",
+    "beschreibung": "Ein Fehler, der während der Programmausführung auftritt."
+  },
+  {
+    "begriff": "try-except",
+    "beschreibung": "Ein Block, um Fehler abzufangen und zu behandeln."
+  },
+  {
+    "begriff": "return",
+    "beschreibung": "Gibt einen Wert aus einer Funktion zurück."
+  },
+  {
+    "begriff": "None",
+    "beschreibung": "Ein spezieller Wert, der das Fehlen eines Wertes anzeigt."
+  },
+  {
+    "begriff": "True",
+    "beschreibung": "Ein boolescher Wert für wahr."
+  },
+  {
+    "begriff": "False",
+    "beschreibung": "Ein boolescher Wert für falsch."
+  },
+  {
+    "begriff": "len()",
+    "beschreibung": "Gibt die Länge eines Objekts zurück."
+  },
+  {
+    "begriff": "range()",
+    "beschreibung": "Erzeugt eine Sequenz von Zahlen."
+  },
+  {
+    "begriff": "input()",
+    "beschreibung": "Liest eine Eingabe vom Benutzer ein."
+  },
+  {
+    "begriff": "print()",
+    "beschreibung": "Gibt Werte auf der Konsole aus."
+  },
+  {
+    "begriff": "str()",
+    "beschreibung": "Wandelt einen Wert in einen String um."
+  },
+  {
+    "begriff": "int()",
+    "beschreibung": "Wandelt einen Wert in eine Ganzzahl um."
+  },
+  {
+    "begriff": "float()",
+    "beschreibung": "Wandelt einen Wert in eine Fließkommazahl um."
+  },
+  {
+    "begriff": "bool()",
+    "beschreibung": "Wandelt einen Wert in einen booleschen Wert um."
+  },
+  {
+    "begriff": "append()",
+    "beschreibung": "Fügt ein Element ans Ende einer Liste an."
+  },
+  {
+    "begriff": "insert()",
+    "beschreibung": "Fügt ein Element an einer bestimmten Position in eine Liste ein."
+  },
+  {
+    "begriff": "remove()",
+    "beschreibung": "Entfernt das erste Vorkommen eines Elements aus einer Liste."
+  },
+  {
+    "begriff": "pop()",
+    "beschreibung": "Entfernt und gibt ein Element aus einer Liste zurück."
+  },
+  {
+    "begriff": "sort()",
+    "beschreibung": "Sortiert die Elemente einer Liste."
+  },
+  {
+    "begriff": "reverse()",
+    "beschreibung": "Kehrt die Reihenfolge der Elemente in einer Liste um."
+  },
+  {
+    "begriff": "split()",
+    "beschreibung": "Teilt einen String anhand eines Trennzeichens."
+  },
+  {
+    "begriff": "join()",
+    "beschreibung": "Verbindet eine Sequenz von Strings zu einem String."
+  },
+  {
+    "begriff": "upper()",
+    "beschreibung": "Wandelt einen String in Großbuchstaben um."
+  },
+  {
+    "begriff": "lower()",
+    "beschreibung": "Wandelt einen String in Kleinbuchstaben um."
+  },
+  {
+    "begriff": "strip()",
+    "beschreibung": "Entfernt Leerzeichen am Anfang und Ende eines Strings."
+  },
+  {
+    "begriff": "replace()",
+    "beschreibung": "Ersetzt Teile eines Strings durch einen anderen String."
+  },
+  {
+    "begriff": "find()",
+    "beschreibung": "Gibt den Index des ersten Vorkommens eines Teilstrings zurück."
+  },
+  {
+    "begriff": "enumerate()",
+    "beschreibung": "Gibt Paare aus Index und Element einer Sequenz zurück."
+  },
+  {
+    "begriff": "zip()",
+    "beschreibung": "Fasst mehrere Sequenzen zu Tupeln zusammen."
+  },
+  {
+    "begriff": "map()",
+    "beschreibung": "Wendet eine Funktion auf alle Elemente einer Sequenz an."
+  },
+  {
+    "begriff": "filter()",
+    "beschreibung": "Filtert Elemente einer Sequenz anhand einer Funktion."
+  },
+  {
+    "begriff": "lambda",
+    "beschreibung": "Erzeugt eine anonyme Funktion."
+  },
+  {
+    "begriff": "list comprehension",
+    "beschreibung": "Kompakte Schreibweise zur Erzeugung von Listen."
+  },
+  {
+    "begriff": "dict comprehension",
+    "beschreibung": "Kompakte Schreibweise zur Erzeugung von Dictionaries."
+  },
+  {
+    "begriff": "set comprehension",
+    "beschreibung": "Kompakte Schreibweise zur Erzeugung von Sets."
+  },
+  {
+    "begriff": "Generator",
+    "beschreibung": "Eine Funktion, die einen Iterator zurückgibt."
+  },
+  {
+    "begriff": "yield",
+    "beschreibung": "Gibt einen Wert aus einem Generator zurück."
+  },
+  {
+    "begriff": "Iterator",
+    "beschreibung": "Ein Objekt, das nacheinander Werte liefert."
+  },
+  {
+    "begriff": "Iterable",
+    "beschreibung": "Ein Objekt, über das iteriert werden kann."
+  },
+  {
+    "begriff": "Attribute",
+    "beschreibung": "Eigenschaften oder Methoden eines Objekts."
+  },
+  {
+    "begriff": "Methode",
+    "beschreibung": "Eine Funktion, die zu einem Objekt gehört."
+  },
+  {
+    "begriff": "self",
+    "beschreibung": "Verweist innerhalb einer Klasse auf das aktuelle Objekt."
+  },
+  {
+    "begriff": "__init__",
+    "beschreibung": "Konstruktor-Methode einer Klasse."
+  },
+  {
+    "begriff": "__str__",
+    "beschreibung": "Definiert die String-Darstellung eines Objekts."
+  },
+  {
+    "begriff": "__repr__",
+    "beschreibung": "Definiert die Entwickler-Darstellung eines Objekts."
+  },
+  {
+    "begriff": "Vererbung",
+    "beschreibung": "Eine Klasse kann Eigenschaften einer anderen Klasse übernehmen."
+  },
+  {
+    "begriff": "Polymorphismus",
+    "beschreibung": "Objekte verschiedener Klassen können gleich behandelt werden."
+  },
+  {
+    "begriff": "Abstrakte Klasse",
+    "beschreibung": "Eine Klasse, die nicht direkt instanziiert werden kann."
+  },
+  {
+    "begriff": "Statische Methode",
+    "beschreibung": "Eine Methode, die ohne Objekt aufgerufen werden kann."
+  },
+  {
+    "begriff": "Klassenmethode",
+    "beschreibung": "Eine Methode, die auf die Klasse statt auf das Objekt zugreift."
+  },
+  {
+    "begriff": "Dekorator",
+    "beschreibung": "Eine Funktion, die eine andere Funktion verändert."
+  },
+  {
+    "begriff": "with-Anweisung",
+    "beschreibung": "Verwendet einen Kontextmanager, z.B. für Dateioperationen."
+  },
+  {
+    "begriff": "open()",
+    "beschreibung": "Öffnet eine Datei zum Lesen oder Schreiben."
+  },
+  {
+    "begriff": "read()",
+    "beschreibung": "Liest den Inhalt einer Datei."
+  },
+  {
+    "begriff": "write()",
+    "beschreibung": "Schreibt Daten in eine Datei."
+  },
+  {
+    "begriff": "close()",
+    "beschreibung": "Schließt eine geöffnete Datei."
+  },
+  {
+    "begriff": "os-Modul",
+    "beschreibung": "Bietet Funktionen für Betriebssystem-Operationen."
+  },
+  {
+    "begriff": "sys-Modul",
+    "beschreibung": "Bietet Zugriff auf Systemfunktionen und -parameter."
+  },
+  {
+    "begriff": "math-Modul",
+    "beschreibung": "Stellt mathematische Funktionen bereit."
+  },
+  {
+    "begriff": "random-Modul",
+    "beschreibung": "Erzeugt Zufallszahlen und -sequenzen."
+  },
+  {
+    "begriff": "datetime-Modul",
+    "beschreibung": "Arbeitet mit Datum und Uhrzeit."
+  },
+  {
+    "begriff": "time-Modul",
+    "beschreibung": "Bietet Zeitfunktionen."
+  },
+  {
+    "begriff": "json-Modul",
+    "beschreibung": "Arbeitet mit JSON-Daten."
+  },
+  {
+    "begriff": "import as",
+    "beschreibung": "Importiert ein Modul unter einem Aliasnamen."
+  },
+  {
+    "begriff": "from ... import ...",
+    "beschreibung": "Importiert bestimmte Elemente aus einem Modul."
+  },
+  {
+    "begriff": "pass",
+    "beschreibung": "Platzhalter für einen leeren Codeblock."
+  },
+  {
+    "begriff": "break",
+    "beschreibung": "Beendet eine Schleife vorzeitig."
+  },
+  {
+    "begriff": "continue",
+    "beschreibung": "Springt zum nächsten Schleifendurchlauf."
+  },
+  {
+    "begriff": "assert",
+    "beschreibung": "Überprüft eine Bedingung und löst ggf. einen Fehler aus."
+  },
+  {
+    "begriff": "global",
+    "beschreibung": "Deklariert eine Variable als global."
+  },
+  {
+    "begriff": "nonlocal",
+    "beschreibung": "Deklariert eine Variable als nicht lokal."
+  },
+  {
+    "begriff": "del",
+    "beschreibung": "Löscht eine Variable oder ein Element."
+  },
+  {
+    "begriff": "is",
+    "beschreibung": "Vergleicht, ob zwei Variablen auf dasselbe Objekt zeigen."
+  },
+  {
+    "begriff": "in",
+    "beschreibung": "Prüft, ob ein Element in einer Sequenz enthalten ist."
+  },
+  {
+    "begriff": "not",
+    "beschreibung": "Negiert einen booleschen Ausdruck."
+  },
+  {
+    "begriff": "and",
+    "beschreibung": "Verknüpft zwei Bedingungen logisch UND."
+  },
+  {
+    "begriff": "or",
+    "beschreibung": "Verknüpft zwei Bedingungen logisch ODER."
+  },
+  {
+    "begriff": "try-finally",
+    "beschreibung": "Führt nach try-Block immer den finally-Block aus."
+  },
+  {
+    "begriff": "raise",
+    "beschreibung": "Löst eine Exception aus."
+  },
+  {
+    "begriff": "TypeError",
+    "beschreibung": "Fehler bei falschem Datentyp."
+  },
+  {
+    "begriff": "ValueError",
+    "beschreibung": "Fehler bei falschem Wert."
+  },
+  {
+    "begriff": "IndexError",
+    "beschreibung": "Fehler bei ungültigem Indexzugriff."
+  },
+  {
+    "begriff": "KeyError",
+    "beschreibung": "Fehler bei ungültigem Dictionary-Schlüssel."
+  },
+  {
+    "begriff": "ImportError",
+    "beschreibung": "Fehler beim Importieren eines Moduls."
+  },
+  {
+    "begriff": "NameError",
+    "beschreibung": "Fehler bei nicht definiertem Namen."
+  },
+  {
+    "begriff": "AttributeError",
+    "beschreibung": "Fehler bei nicht vorhandenem Attribut."
+  },
+  {
+    "begriff": "ZeroDivisionError",
+    "beschreibung": "Fehler bei Division durch Null."
+  },
+  {
+    "begriff": "IndentationError",
+    "beschreibung": "Fehler bei falscher Einrückung."
+  },
+  {
+    "begriff": "SyntaxError",
+    "beschreibung": "Fehler bei falscher Syntax."
+  },
+  {
+    "begriff": "FileNotFoundError",
+    "beschreibung": "Fehler, wenn eine Datei nicht gefunden wird."
+  },
+  {
+    "begriff": "ModuleNotFoundError",
+    "beschreibung": "Fehler, wenn ein Modul nicht gefunden wird."
+  },
+  {
+    "begriff": "StopIteration",
+    "beschreibung": "Signalisiert das Ende eines Iterators."
+  },
+  {
+    "begriff": "KeyboardInterrupt",
+    "beschreibung": "Abbruch durch Benutzereingabe (z.B. Strg+C)."
+  },
+  {
+    "begriff": "help()",
+    "beschreibung": "Zeigt die Hilfe zu einem Objekt an."
+  },
+  {
+    "begriff": "dir()",
+    "beschreibung": "Listet die Attribute eines Objekts auf."
+  },
+  {
+    "begriff": "type()",
+    "beschreibung": "Gibt den Typ eines Objekts zurück."
+  },
+  {
+    "begriff": "id()",
+    "beschreibung": "Gibt die Speicheradresse eines Objekts zurück."
+  },
+  {
+    "begriff": "abs()",
+    "beschreibung": "Gibt den Absolutwert einer Zahl zurück."
+  },
+  {
+    "begriff": "min()",
+    "beschreibung": "Gibt das kleinste Element einer Sequenz zurück."
+  },
+  {
+    "begriff": "max()",
+    "beschreibung": "Gibt das größte Element einer Sequenz zurück."
+  },
+  {
+    "begriff": "sum()",
+    "beschreibung": "Gibt die Summe aller Elemente einer Sequenz zurück."
+  },
+  {
+    "begriff": "all()",
+    "beschreibung": "Prüft, ob alle Elemente wahr sind."
+  },
+  {
+    "begriff": "any()",
+    "beschreibung": "Prüft, ob mindestens ein Element wahr ist."
+  },
+  {
+    "begriff": "sorted()",
+    "beschreibung": "Gibt eine sortierte Kopie einer Sequenz zurück."
+  },
+  {
+    "begriff": "reversed()",
+    "beschreibung": "Gibt eine umgekehrte Kopie einer Sequenz zurück."
+  },
+  {
+    "begriff": "super()",
+    "beschreibung": "Ruft Methoden der Elternklasse auf."
+  },
+  {
+    "begriff": "property",
+    "beschreibung": "Ermöglicht kontrollierten Zugriff auf Attribute."
+  },
+  {
+    "begriff": "staticmethod",
+    "beschreibung": "Dekorator für statische Methoden."
+  },
+  {
+    "begriff": "classmethod",
+    "beschreibung": "Dekorator für Klassenmethoden."
+  },
+  {
+    "begriff": "frozenset",
+    "beschreibung": "Unveränderbare Variante eines Sets."
+  },
+  {
+    "begriff": "bytes",
+    "beschreibung": "Unveränderbare Sequenz von Bytes."
+  },
+  {
+    "begriff": "bytearray",
+    "beschreibung": "Veränderbare Sequenz von Bytes."
+  },
+  {
+    "begriff": "memoryview",
+    "beschreibung": "Erlaubt den Zugriff auf den Speicher von Objekten."
+  },
+  {
+    "begriff": "bin()",
+    "beschreibung": "Gibt die Binärdarstellung einer Zahl zurück."
+  },
+  {
+    "begriff": "oct()",
+    "beschreibung": "Gibt die Oktaldarstellung einer Zahl zurück."
+  },
+  {
+    "begriff": "hex()",
+    "beschreibung": "Gibt die Hexadezimaldarstellung einer Zahl zurück."
+  },
+  {
+    "begriff": "eval()",
+    "beschreibung": "Führt einen String als Python-Ausdruck aus."
+  },
+  {
+    "begriff": "exec()",
+    "beschreibung": "Führt einen String als Python-Code aus."
+  },
+  {
+    "begriff": "compile()",
+    "beschreibung": "Kompiliert einen String zu Python-Code."
+  },
+  {
+    "begriff": "globals()",
+    "beschreibung": "Gibt das globale Namensraum-Dictionary zurück."
+  },
+  {
+    "begriff": "locals()",
+    "beschreibung": "Gibt das lokale Namensraum-Dictionary zurück."
+  },
+  {
+    "begriff": "callable()",
+    "beschreibung": "Prüft, ob ein Objekt aufrufbar ist."
+  },
+  {
+    "begriff": "issubclass()",
+    "beschreibung": "Prüft, ob eine Klasse eine Unterklasse einer anderen ist."
+  },
+  {
+    "begriff": "isinstance()",
+    "beschreibung": "Prüft, ob ein Objekt eine Instanz einer Klasse ist."
+  },
+  {
+    "begriff": "format()",
+    "beschreibung": "Formatiert einen String."
+  },
+  {
+    "begriff": "f-String",
+    "beschreibung": "String-Formatierung mit eingebetteten Ausdrücken."
+  },
+  {
+    "begriff": "slice",
+    "beschreibung": "Erzeugt einen Ausschnitt einer Sequenz."
+  },
+  {
+    "begriff": "Ellipsis",
+    "beschreibung": "Das ...-Objekt, z.B. für Slicing."
+  },
+  {
+    "begriff": "NotImplemented",
+    "beschreibung": "Signalisiert, dass eine Operation nicht implementiert ist."
+  },
+  {
+    "begriff": "docstring",
+    "beschreibung": "Dokumentationsstring einer Funktion oder Klasse."
+  },
+  {
+    "begriff": "PEP8",
+    "beschreibung": "Python Style Guide für sauberen Code."
+  },
+  {
+    "begriff": "virtualenv",
+    "beschreibung": "Werkzeug zum Erstellen isolierter Python-Umgebungen."
+  },
+  {
+    "begriff": "pip",
+    "beschreibung": "Paketmanager für Python-Pakete."
+  },
+  {
+    "begriff": "venv",
+    "beschreibung": "Modul zum Erstellen virtueller Umgebungen."
+  },
+  {
+    "begriff": "requirements.txt",
+    "beschreibung": "Datei mit Abhängigkeiten eines Python-Projekts."
+  },
+  {
+    "begriff": "setup.py",
+    "beschreibung": "Konfigurationsdatei für Python-Pakete."
+  },
+  {
+    "begriff": "__main__",
+    "beschreibung": "Bezeichnet das Hauptmodul eines Programms."
+  },
+  {
+    "begriff": "__name__",
+    "beschreibung": "Name des aktuellen Moduls."
+  },
+  {
+    "begriff": "logging",
+    "beschreibung": "Modul zur Protokollierung von Programminformationen."
+  },
+  {
+    "begriff": "argparse",
+    "beschreibung": "Modul zur Verarbeitung von Kommandozeilenargumenten."
+  },
+  {
+    "begriff": "unittest",
+    "beschreibung": "Modul für automatisierte Tests."
+  },
+  {
+    "begriff": "doctest",
+    "beschreibung": "Testet Codebeispiele in Docstrings."
+  },
+  {
+    "begriff": "pytest",
+    "beschreibung": "Beliebtes Test-Framework für Python."
+  },
+  {
+    "begriff": "mock",
+    "beschreibung": "Werkzeug zum Erstellen von Scheinobjekten für Tests."
+  },
+  {
+    "begriff": "assertEqual",
+    "beschreibung": "Vergleicht zwei Werte in Tests auf Gleichheit."
+  },
+  {
+    "begriff": "assertTrue",
+    "beschreibung": "Prüft, ob ein Ausdruck wahr ist."
+  },
+  {
+    "begriff": "assertFalse",
+    "beschreibung": "Prüft, ob ein Ausdruck falsch ist."
+  },
+  {
+    "begriff": "assertRaises",
+    "beschreibung": "Prüft, ob eine Exception ausgelöst wird."
+  },
+  {
+    "begriff": "TDD",
+    "beschreibung": "Testgetriebene Entwicklung."
+  },
+  {
+    "begriff": "OOP",
+    "beschreibung": "Objektorientierte Programmierung."
+  },
+  {
+    "begriff": "FP",
+    "beschreibung": "Funktionale Programmierung."
+  },
+  {
+    "begriff": "REPL",
+    "beschreibung": "Interaktive Python-Konsole."
+  },
+  {
+    "begriff": "IDLE",
+    "beschreibung": "Standard-Python-Entwicklungsumgebung."
+  },
+  {
+    "begriff": "Jupyter Notebook",
+    "beschreibung": "Webanwendung für interaktives Python-Coding."
+  },
+  {
+    "begriff": "PyPI",
+    "beschreibung": "Python Package Index, zentrale Paketquelle."
+  },
+  {
+    "begriff": "PEP",
+    "beschreibung": "Python Enhancement Proposal, Vorschlag für Python-Verbesserungen."
+  },
+  {
+    "begriff": "GIL",
+    "beschreibung": "Global Interpreter Lock, verhindert parallele Threads."
+  },
+  {
+    "begriff": "Thread",
+    "beschreibung": "Leichtgewichtiger Ausführungsstrang."
+  },
+  {
+    "begriff": "Prozess",
+    "beschreibung": "Eigenständige Ausführungseinheit im Betriebssystem."
+  },
+  {
+    "begriff": "multiprocessing",
+    "beschreibung": "Modul für parallele Prozesse."
+  },
+  {
+    "begriff": "threading",
+    "beschreibung": "Modul für parallele Threads."
+  },
+  {
+    "begriff": "asyncio",
+    "beschreibung": "Modul für asynchrone Programmierung."
+  },
+  {
+    "begriff": "await",
+    "beschreibung": "Wartet auf das Ergebnis einer asynchronen Funktion."
+  },
+  {
+    "begriff": "async",
+    "beschreibung": "Deklariert eine Funktion als asynchron."
+  },
+  {
+    "begriff": "coroutine",
+    "beschreibung": "Spezielle Funktion für asynchrone Abläufe."
+  },
+  {
+    "begriff": "Event Loop",
+    "beschreibung": "Steuert die Ausführung asynchroner Aufgaben."
+  },
+  {
+    "begriff": "Decorator",
+    "beschreibung": "Funktion, die eine andere Funktion erweitert."
+  },
+  {
+    "begriff": "Context Manager",
+    "beschreibung": "Verwaltet Ressourcen mit with-Anweisung."
+  },
+  {
+    "begriff": "Magic Methods",
+    "beschreibung": "Spezielle Methoden mit doppeltem Unterstrich."
+  },
+  {
+    "begriff": "Duck Typing",
+    "beschreibung": "Objekte werden nach Verhalten, nicht nach Typ behandelt."
+  },
+  {
+    "begriff": "Mutable",
+    "beschreibung": "Veränderbare Objekte."
+  },
+  {
+    "begriff": "Immutable",
+    "beschreibung": "Unveränderbare Objekte."
+  },
+  {
+    "begriff": "Shallow Copy",
+    "beschreibung": "Kopie eines Objekts, teilt Referenzen auf Unterobjekte."
+  },
+  {
+    "begriff": "Deep Copy",
+    "beschreibung": "Kopie eines Objekts und aller Unterobjekte."
+  },
+  {
+    "begriff": "copy-Modul",
+    "beschreibung": "Modul zum Kopieren von Objekten."
+  },
+  {
+    "begriff": "csv-Modul",
+    "beschreibung": "Modul zum Lesen und Schreiben von CSV-Dateien."
+  },
+  {
+    "begriff": "sqlite3",
+    "beschreibung": "Modul für SQLite-Datenbanken."
+  },
+  {
+    "begriff": "requests",
+    "beschreibung": "Bibliothek für HTTP-Anfragen."
+  },
+  {
+    "begriff": "BeautifulSoup",
+    "beschreibung": "Bibliothek zum Parsen von HTML und XML."
+  },
+  {
+    "begriff": "Flask",
+    "beschreibung": "Leichtgewichtiges Web-Framework."
+  },
+  {
+    "begriff": "Django",
+    "beschreibung": "Vollständiges Web-Framework."
+  },
+  {
+    "begriff": "Tkinter",
+    "beschreibung": "Standard-GUI-Bibliothek für Python."
+  },
+  {
+    "begriff": "Pandas",
+    "beschreibung": "Bibliothek für Datenanalyse und -manipulation."
+  },
+  {
+    "begriff": "NumPy",
+    "beschreibung": "Bibliothek für numerische Berechnungen."
+  },
+  {
+    "begriff": "Matplotlib",
+    "beschreibung": "Bibliothek für Diagramme und Visualisierung."
+  },
+  {
+    "begriff": "Seaborn",
+    "beschreibung": "Bibliothek für statistische Datenvisualisierung."
+  },
+  {
+    "begriff": "SciPy",
+    "beschreibung": "Bibliothek für wissenschaftliches Rechnen."
+  },
+  {
+    "begriff": "Scikit-learn",
+    "beschreibung": "Bibliothek für maschinelles Lernen."
+  },
+  {
+    "begriff": "TensorFlow",
+    "beschreibung": "Bibliothek für Deep Learning."
+  },
+  {
+    "begriff": "PyTorch",
+    "beschreibung": "Bibliothek für Deep Learning."
+  },
+  {
+    "begriff": "OpenCV",
+    "beschreibung": "Bibliothek für Bildverarbeitung."
+  },
+  {
+    "begriff": "Pillow",
+    "beschreibung": "Bibliothek für Bildbearbeitung."
+  },
+  {
+    "begriff": "pytest",
+    "beschreibung": "Framework für automatisierte Tests."
+  },
+  {
+    "begriff": "Sphinx",
+    "beschreibung": "Werkzeug zur Dokumentationserstellung."
+  },
+  {
+    "begriff": "tox",
+    "beschreibung": "Werkzeug zum Testen in verschiedenen Umgebungen."
+  },
+  {
+    "begriff": "black",
+    "beschreibung": "Automatischer Code-Formatter für Python."
+  },
+  {
+    "begriff": "isort",
+    "beschreibung": "Sortiert Python-Importe automatisch."
+  },
+  {
+    "begriff": "mypy",
+    "beschreibung": "Werkzeug zur statischen Typüberprüfung."
+  },
+  {
+    "begriff": "type hints",
+    "beschreibung": "Optionale Typangaben für Variablen und Funktionen."
+  },
+  {
+    "begriff": "dataclass",
+    "beschreibung": "Dekorator für Klassen mit automatischen Methoden."
+  },
+  {
+    "begriff": "NamedTuple",
+    "beschreibung": "Tupel mit benannten Feldern."
+  },
+  {
+    "begriff": "Enum",
+    "beschreibung": "Klasse für Aufzählungstypen."
+  },
+  {
+    "begriff": "ABC",
+    "beschreibung": "Abstrakte Basisklasse."
+  },
+  {
+    "begriff": "property",
+    "beschreibung": "Ermöglicht kontrollierten Zugriff auf Attribute."
+  },
+  {
+    "begriff": "logging",
+    "beschreibung": "Modul zur Protokollierung von Programminformationen."
+  }
+]
